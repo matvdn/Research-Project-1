@@ -1,0 +1,26 @@
+# Python virtual environment
+.venv/
+
+# External WSOL evaluation repository
+/wsolevaluation/
+
+# Downloaded datasets
+/data/CUB/
+/data/ImageNet/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# JetBrains IDE
+.idea/
+
+# Model checkpoints and weights
+*.pth
+*.pt
+*.ckpt
+
+# Logs and temporary files
+*.log
+*.tmp
